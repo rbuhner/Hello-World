@@ -17,7 +17,7 @@ Here's to Hope for the Future!
 -- 05/14/2019 --
 It's been two years and some since I have started saving my progress with Github, and not going to lie it's been looking a bit dusty here as I continue to work for a living instead of a life, and coding when I can.
 
-But good news, I have joined/helped make a new startup named Malum Games Studio (https://www.malumgamesstudio.com/) and slowly we're working out the kinks and getting content out there, like the new Lucky Penny entry we submitted for the #ue4jam on itch.io (https://malumgamesstudio.itch.io/lucky-penny).
+But good news, I have joined/helped make a new startup named Malum Games Studio (https://www.malumgamesstudio.com/) and slowly we're working out the kinks and getting content out there, like the new Lucky Penny entry we submitted for the #ue4jam on itch.io (https://malumgamesstudio.itch.io/lucky-penny). This is at the moment less-than-part time, and still looking for another project to make a living while learning further about creating professional software.
 
 I am also still continuing my research into AI (currently the rabbit-hole that is Neural Networks) while I continue my degree in Computer Science and Engineering, and with that see if I can upgrade my side-projects to think for themselves a bit more.
 
